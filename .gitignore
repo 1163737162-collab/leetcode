@@ -1,0 +1,23 @@
+# Compiled programs and build output
+*.o
+*.out
+*.exe
+*.dSYM/
+.DS_Store
+/add_digits
+/arr1
+/arr2
+/binary_search
+/binary_search_pro
+/calendar
+/days
+/fizz_buzz
+/game/game
+/game/test
+/guess_number
+/number_of_steps
+/srand
+/welcome_to_bit
+
+# Local editor configuration
+/.vscode/
